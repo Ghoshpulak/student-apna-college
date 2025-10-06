@@ -1,2 +1,4 @@
 # student-apna-college
-This is my first git repo
+This is my first Git Repository
+<br>
+author-Pulak Ghosh
